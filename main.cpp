@@ -68,3 +68,5 @@ void menu(){
 //https://www.crehana.com/blog/estilo-vida/guia-reglas-blackjack/
 
 cout << "algorando," << endl;
+
+cout << "algomas" << endl;
